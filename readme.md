@@ -7,3 +7,5 @@ I like Git !
 - git status
 - git add/rm
 - git commit
+- git diff
+- git restore
